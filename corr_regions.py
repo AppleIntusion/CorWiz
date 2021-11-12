@@ -246,7 +246,7 @@ class Corr():
         corr_array = pd.DataFrame.from_dict(corr_array, 
                                             orient = 'index', 
                                             columns = col_names)
-        self.correl_matix = corr_array
+        self.correl_matrix = corr_array
 
     def get_clusters(self):
         '''
