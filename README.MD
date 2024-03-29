@@ -2,7 +2,7 @@
 
 ## Description
 Generates feature-space and simplified correlation matrix heatmaps for subunits of 
-molecular structures. I got the idea when reading the following [article](https://towardsdatascience.com/escape-the-correlation-matrix-into-feature-space-4d71c51f25e5). The utility was largely adapted from the [notebook](https://github.com/MattJBritton/ExquisiteCorrpse) associated with the article. It's still pretty rough around the edges.
+ protein complexes using MD simulation trajectories. I got the idea when reading the following [article](https://towardsdatascience.com/escape-the-correlation-matrix-into-feature-space-4d71c51f25e5). The utility was largely adapted from the [notebook](https://github.com/MattJBritton/ExquisiteCorrpse) associated with the article. It's still pretty rough around the edges.
 
 Examples of the two types of plots that are generated are found below.
 
